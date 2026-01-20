@@ -48,6 +48,3 @@ The software is architected as a finite state machine (FSM) to handle conflictin
 ## 📊 Future Roadmap
 * **Data Pipeline:** Integration of a Python-based serial logger (`logger.py`) to stream session data to a local CSV for long-term trend analysis (Pandas/Streamlit).
 * **Adaptive Thresholds:** Auto-calibrating the "Sitting" distance based on the first 10 seconds of data.
-
----
-*Created by Marouane Nouira*
